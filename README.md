@@ -8,8 +8,8 @@ __Author website:__ [humhub.org](http://humhub.org)
 
 ## Changelog
 
-<https://github.com/humhub/humhub-modules-mail/commits/master>
+<https://github.com/GreenVolume/Custom-Humhub-Mail-Module/commits/add_permissions_to_group_permissions>
 
 ## Bugtracker
 
-<https://github.com/humhub/humhub-modules-mail/issues>
+<https://github.com/GreenVolume/Custom-Humhub-Mail-Module/issues>
